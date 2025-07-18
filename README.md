@@ -29,8 +29,6 @@ A comprehensive web application for managing medicines and their stock in a medi
     * Thymeleaf (for server-side rendering of HTML templates)
     * HTML5
     * CSS (Bootstrap 4.x for basic styling)
-* **Development Tools**:
-    * Git / GitHub
 
 ## 📂 Project Structure
 
