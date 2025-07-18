@@ -70,27 +70,6 @@ A comprehensive web application for managing medicines and their stock in a medi
 * **Development Tools**:
     * Git / GitHub
 
-## 📂 Project Structure
-
-medical-store-management/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/medicalstore/medicalstoremanagement/
-│   │   │       ├── MedicalStoreManagementApplication.java  // Main application
-│   │   │       ├── config/                                // Web & Security configurations
-│   │   │       ├── controller/                            // Handles web requests (Thymeleaf)
-│   │   │       ├── dto/                                   // Data Transfer Objects
-│   │   │       ├── model/                                 // JPA Entities (User, Medicine)
-│   │   │       ├── repository/                            // Spring Data JPA repositories
-│   │   │       ├── security/                              // Spring Security setup
-│   │   │       └── service/                               // Business logic services
-│   │   └── resources/
-│   │       ├── application.properties                     // Application configuration
-│   │       ├── static/                                    // Static assets (CSS, JS)
-│   │       └── templates/                                 // Thymeleaf HTML templates (.html)
-├── pom.xml                                                // Maven project file
-
 ## 🚀 Getting Started
 
 To get a local copy up and running, follow these simple steps.
